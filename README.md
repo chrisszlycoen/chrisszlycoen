@@ -68,6 +68,13 @@ Attendance tracking · Discipline records · Role‑based access · Data integri
 
 </td>
 </tr>
+</table>
+
+<details>
+<summary><b>✨ Click to view more projects</b></summary>
+<br/>
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -96,9 +103,15 @@ Emotion tracking · Mindfulness insights · Resilience building
 </tr>
 </table>
 
+</details>
+
 ---
 
 ## 🛠️ Stack
+
+<details>
+<summary><b>💻 Click to view my full tech stack</b></summary>
+<br/>
 
 <div align="center">
 
@@ -112,6 +125,8 @@ Emotion tracking · Mindfulness insights · Resilience building
 
 </div>
 
+</details>
+
 ---
 
 ## 📊 Stats
@@ -122,11 +137,13 @@ Emotion tracking · Mindfulness insights · Resilience building
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=chrisszlycoen&theme=github-compact&hide_border=true&bg_color=000000&color=D4AF37&line=D4AF37&point=ffffff&area=true&area_color=D4AF3720" />
 
 <!-- STATS + LANGUAGES -->
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chrisszlycoen&show_icons=true&theme=transparent&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&include_all_commits=true&ring_color=D4AF37" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chrisszlycoen&layout=compact&theme=transparent&hide_border=true&title_color=D4AF37&text_color=ffffff&langs_count=8" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chrisszlycoen&show_icons=true&bg_color=0D1117&theme=dark&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&include_all_commits=true&ring_color=D4AF37" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chrisszlycoen&layout=compact&bg_color=0D1117&theme=dark&hide_border=true&title_color=D4AF37&text_color=ffffff&langs_count=8" />
+
+<br/>
 
 <!-- STREAK -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=chrisszlycoen&theme=transparent&hide_border=true&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisszlycoen&theme=dark&background=0D1117&hide_border=true&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
 
 <!-- SNAKE ANIMATION -->
 <picture>
@@ -134,9 +151,6 @@ Emotion tracking · Mindfulness insights · Resilience building
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chrisszlycoen/chrisszlycoen/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/chrisszlycoen/chrisszlycoen/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-<!-- TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=chrisszlycoen&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" />
 
 </div>
 
