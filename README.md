@@ -1,20 +1,33 @@
+<!-- Premium profile README — animations via capsule-render, readme-typing-svg, GitHub Stats (SVG) -->
+
 <div align="center">
 
-# Chrisostom Uhiriwe
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1c2128,70:161b22,100:0d1117&height=240&section=header&text=Chrisostom%20Uhiriwe&fontSize=38&fontColor=D4AF37&fontAlignY=36&desc=%40chrisszlycoen&descSize=19&descAlignY=64&descAlign=center&descColor=8b949e&animation=fadeIn" alt="Header banner" />
 
-**Systems & security–minded engineer** — authentication, full-stack platforms, and low-level C integrated with databases.
+<br/>
 
-Focused on long-term leverage as a technical founder.
+<img src="https://readme-typing-svg.demolab.com/?font=DM+Sans&weight=600&size=22&duration=3800&pause=950&color=D4AF37&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=100&lines=Systems+%26+security+engineering;Authentication+%E2%80%A2+Full-stack+%E2%80%A2+Low-level+C+%2B+databases;Building+SecureScholars+%E2%80%A2+long-term+leverage+as+a+founder" alt="Animated tagline" />
 
-[About](#about) · [Projects](#projects) · [Stack](#stack) · [Socials](#socials) · [Stats](#stats)
+<br/><br/>
 
----
+<a href="#about">About</a>
+&nbsp;·&nbsp;
+<a href="#projects">Projects</a>
+&nbsp;·&nbsp;
+<a href="#stack">Stack</a>
+&nbsp;·&nbsp;
+<a href="#socials">Socials</a>
+&nbsp;·&nbsp;
+<a href="#stats">Stats</a>
 
 </div>
 
+---
+
+
 ## About
 
-I design and build **secure, scalable systems** with long-term leverage: strong auth models, maintainable backends, and careful data boundaries.
+I design and build **secure, scalable systems** with long-term leverage: strong auth models, maintainable backends, and clear data boundaries.
 
 | Focus | |
 | :--- | :--- |
@@ -23,9 +36,9 @@ I design and build **secure, scalable systems** with long-term leverage: strong 
 | Systems | C services paired with MariaDB / SQL |
 | Learning | Network security and traffic analysis |
 
-**Direction:** systems programming, backend engineering, database design, security engineering, and infrastructure-minded architecture.
+**Direction:** systems programming, backend engineering, database design, security engineering, infrastructure-minded architecture.
 
-**Principles:** build assets, not one-off tasks. Design systems, not isolated scripts. Prefer asymmetric outcomes.
+**Principles:** build assets, not one-off tasks. Design systems, not isolated scripts. Optimize for asymmetric outcomes.
 
 ---
 
@@ -44,7 +57,7 @@ Low-level C integrated with **MariaDB** — memory control, modular layout, and 
 ## Stack
 
 <details>
-<summary><strong>Languages & runtime</strong> — click to expand</summary>
+<summary><strong>Languages & runtime</strong> — expand</summary>
 
 <br>
 
@@ -62,7 +75,7 @@ Low-level C integrated with **MariaDB** — memory control, modular layout, and 
 </details>
 
 <details>
-<summary><strong>Web & UI</strong> — click to expand</summary>
+<summary><strong>Web & UI</strong> — expand</summary>
 
 <br>
 
@@ -80,7 +93,7 @@ Low-level C integrated with **MariaDB** — memory control, modular layout, and 
 </details>
 
 <details>
-<summary><strong>Backend & APIs</strong> — click to expand</summary>
+<summary><strong>Backend & APIs</strong> — expand</summary>
 
 <br>
 
@@ -96,7 +109,7 @@ Low-level C integrated with **MariaDB** — memory control, modular layout, and 
 </details>
 
 <details>
-<summary><strong>Data & infra</strong> — click to expand</summary>
+<summary><strong>Data & infra</strong> — expand</summary>
 
 <br>
 
@@ -113,7 +126,7 @@ Low-level C integrated with **MariaDB** — memory control, modular layout, and 
 </details>
 
 <details>
-<summary><strong>Tools & creative</strong> — click to expand</summary>
+<summary><strong>Tools & creative</strong> — expand</summary>
 
 <br>
 
@@ -133,26 +146,31 @@ Low-level C integrated with **MariaDB** — memory control, modular layout, and 
 ## Socials
 
 <p align="center">
-<a href="https://behance.net/code888"><img src="https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white" alt="Behance"></a>
-<a href="https://instagram.com/u.h.i.r.i.w.e___"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://pinterest.com/chrisszlycoen"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=flat-square&logo=Pinterest&logoColor=white" alt="Pinterest"></a>
-<a href="https://x.com/chrisszlycoen"><img src="https://img.shields.io/badge/X-000000.svg?style=flat-square&logo=X&logoColor=white" alt="X"></a>
-<a href="https://mastodon.social/@UhiriweChrisostom"><img src="https://img.shields.io/badge/Mastodon-%232B90D9?style=flat-square&logo=mastodon&logoColor=white" alt="Mastodon"></a>
-<a href="mailto:uhiriwechrisostom0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/chrisszlycoen"><img src="https://img.shields.io/badge/GitHub-chrisszlycoen-1f2328?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0d1117" alt="GitHub @chrisszlycoen"></a>
+<a href="https://behance.net/code888"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&labelColor=0d1117" alt="Behance"></a>
+<a href="https://instagram.com/u.h.i.r.i.w.e___"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram"></a>
+<a href="https://pinterest.com/chrisszlycoen"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=0d1117" alt="Pinterest"></a>
+<a href="https://x.com/chrisszlycoen"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X"></a>
+<a href="https://mastodon.social/@UhiriweChrisostom"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white&labelColor=0d1117" alt="Mastodon"></a>
+<a href="mailto:uhiriwechrisostom0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"></a>
 </p>
 
 ---
 
 ## Stats
 
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=chrisszlycoen&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=D4AF37&point=D4AF37&area=true&custom_title=Contribution%20activity" alt="Contribution activity graph" />
+</p>
+
 <details>
-<summary><strong>GitHub overview</strong> — click to expand</summary>
+<summary><strong>Overview & languages</strong> — expand</summary>
 
 <br>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=chrisszlycoen&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisszlycoen&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=chrisszlycoen&show_icons=true&bg_color=0d1117&border_color=30363d&title_color=D4AF37&icon_color=8b949e&text_color=c9d1d9&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats for chrisszlycoen" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisszlycoen&layout=compact&bg_color=0d1117&border_color=30363d&title_color=D4AF37&text_color=c9d1d9&hide_border=true&include_all_commits=true&count_private=false" alt="Top languages for chrisszlycoen" />
 </p>
 
 <p align="center">
@@ -162,12 +180,12 @@ Low-level C integrated with **MariaDB** — memory control, modular layout, and 
 </details>
 
 <details>
-<summary><strong>Trophies & top repos</strong> — click to expand</summary>
+<summary><strong>Trophies & top repositories</strong> — expand</summary>
 
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chrisszlycoen&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chrisszlycoen&theme=onestar&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
 </p>
 
 <p align="center">
@@ -176,8 +194,19 @@ Low-level C integrated with **MariaDB** — memory control, modular layout, and 
 
 </details>
 
-<p align="center">
-  <a href="https://ko-fi.com/code888"><img src="https://img.shields.io/badge/Support%20on-Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
-  <br><sub>Profile views</sub><br>
-  <img src="https://visitcount.itsvg.in/api?id=chrisszlycoen&icon=2&color=0" alt="Visitor count" />
-</p>
+<div align="center">
+
+<br/>
+
+<a href="https://ko-fi.com/code888"><img src="https://img.shields.io/badge/Support%20on-Ko--fi-D4AF37?style=for-the-badge&logo=ko-fi&logoColor=0d1117&labelColor=1c2128" alt="Ko-fi"></a>
+
+<br/><br/>
+
+<sub>Profile views</sub><br/>
+<img src="https://visitcount.itsvg.in/api?id=chrisszlycoen&icon=2&color=12" alt="Visitor count" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:21262d,100:0d1117&height=140&section=footer&text=Thanks%20for%20visiting&fontSize=28&fontColor=8b949e&fontAlignY=72&animation=twinkling&desc=%40chrisszlycoen&descSize=17&descAlignY=94&descAlign=center&descColor=D4AF37" alt="Footer banner" />
+
+</div>
