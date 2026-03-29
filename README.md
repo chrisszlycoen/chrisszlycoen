@@ -1,16 +1,4 @@
-## Hi there 👋
-
-<!--
-**chrisszlycoen/chrisszlycoen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...# 💫 About Me:
+# 💫 About Me:
 ## 🧠 About Me<br><br>I design and build secure, scalable systems with long-term leverage in mind.<br><br>- 🔐 Engineering secure authentication & authorization architectures<br>- 🏗️ Building fullstack systems (React + Node + MongoDB)<br>- ⚙️ Writing low-level C systems integrated with databases<br>- 🌐 Studying network security & traffic analysis<br>- 📈 Focused on becoming a high-leverage technical founder<br><br>---<br><br>## 🚀 What I’m Building<br><br>### 🔐 SecureScholars<br>An academic security platform focused on:<br>- Exam integrity<br>- Role-based access control<br>- Secure authentication systems<br>- Scalable backend architecture<br><br>### 📚 C-Based Library System<br>Low-level system integrated with MariaDB  <br>Focus: memory control, modular architecture, database performance<br><br>---<br><br>## 🎯 Technical Direction<br><br>- Systems Programming (C)<br>- Backend Engineering<br>- Database Design<br>- Security Engineering<br>- Infrastructure Thinking<br><br>---<br><br>## 💡 Philosophy<br><br>Build assets, not tasks.  <br>Design systems, not scripts.  <br>Optimize for asymmetric outcomes.
 
 
@@ -38,6 +26,3 @@ Here are some ideas to get you started:
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
