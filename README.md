@@ -9,7 +9,7 @@
 
 <!-- ANIMATED TAGLINE -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&repeat=true&width=600&height=45&lines=🚍+Building+CAMINO+—+Safe+Student+Transport;📚+Building+EduTrack+—+Secure+School+Systems;🔐+Security+Engineer+%7C+Full-Stack+Builder;🧠+Systems+Thinker+%7C+Kigali+🇷🇼" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Building+CAMINO+-+Safe+Student+Transport;Building+EduTrack+-+Secure+School+Systems;Security+Engineer+|+Full-Stack+Builder;Systems+Thinker+|+Kigali" />
 </a>
 
 <br/><br/>
@@ -122,8 +122,8 @@ Emotion tracking · Mindfulness insights · Resilience building
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=chrisszlycoen&theme=github-compact&hide_border=true&bg_color=000000&color=D4AF37&line=D4AF37&point=ffffff&area=true&area_color=D4AF3720" />
 
 <!-- STATS + LANGUAGES -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chrisszlycoen&show_icons=true&theme=transparent&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&include_all_commits=true&ring_color=D4AF37" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisszlycoen&layout=compact&theme=transparent&hide_border=true&title_color=D4AF37&text_color=ffffff&langs_count=8" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chrisszlycoen&show_icons=true&theme=transparent&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&include_all_commits=true&ring_color=D4AF37" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chrisszlycoen&layout=compact&theme=transparent&hide_border=true&title_color=D4AF37&text_color=ffffff&langs_count=8" />
 
 <!-- STREAK -->
 <img src="https://nirzak-streak-stats.vercel.app/?user=chrisszlycoen&theme=transparent&hide_border=true&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
