@@ -2,18 +2,6 @@
 
 <div align="center">
 
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=D4AF37&height=200&section=header&text=Chrisostom%20Uhiriwe&fontSize=44&fontColor=ffffff&animation=twinkling&stroke=D4AF37" />
-
-<br/>
-
-<!-- ANIMATED TAGLINE -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Building+CAMINO+-+Safe+Student+Transport;Building+EduTrack+-+Secure+School+Systems;Security+Engineer+|+Full-Stack+Builder;Systems+Thinker+|+Kigali" />
-</a>
-
-<br/><br/>
-
 <!-- STATUS PILLS -->
 [![Open to Work](https://img.shields.io/badge/🟢_Open_to_Work-000?style=for-the-badge)](mailto:uhiriwechrisostom0@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Kigali-000?style=for-the-badge)](#)
