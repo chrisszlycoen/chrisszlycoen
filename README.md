@@ -37,10 +37,12 @@ const chrisostom = {
 > Safe, organized & accountable student transport
 
 [![Repo](https://img.shields.io/badge/GitHub-chrisszlycoen%2FCAMINO-D4AF37?style=flat-square&logo=github)](https://github.com/chrisszlycoen/CAMINO)
+
 ![Status](https://img.shields.io/badge/🔥_In_Development-D4AF37?style=flat-square)
+
 ![Stack](https://img.shields.io/badge/Flutter_·_Dart_·_Firebase-333?style=flat-square)
 
-Real‑time bus tracking · Student check‑ins · Parent notifications · Admin analytics dashboards
+Real-time bus tracking · Student check-ins · Parent notifications · Admin analytics dashboards
 
 </td>
 <td width="50%" valign="top">
@@ -49,10 +51,12 @@ Real‑time bus tracking · Student check‑ins · Parent notifications · Admin
 > Secure student management with RBAC
 
 [![Repo](https://img.shields.io/badge/GitHub-chrisszlycoen%2FEdutrack-D4AF37?style=flat-square&logo=github)](https://github.com/chrisszlycoen/Edutrack)
+
 ![Status](https://img.shields.io/badge/🔥_In_Development-D4AF37?style=flat-square)
+
 ![Stack](https://img.shields.io/badge/Java_·_Hibernate_·_MySQL-333?style=flat-square)
 
-Attendance tracking · Discipline records · Role‑based access · Data integrity & privacy
+Attendance tracking · Discipline records · Role-based access · Data integrity & privacy
 
 </td>
 </tr>
@@ -70,7 +74,9 @@ Attendance tracking · Discipline records · Role‑based access · Data integri
 > Real-time collaboration platform
 
 [![Repo](https://img.shields.io/badge/GitHub-chrisszlycoen%2FSlack--clone-58a6ff?style=flat-square&logo=github)](https://github.com/chrisszlycoen/Slack-clone)
+
 ![Status](https://img.shields.io/badge/✅_Active-58a6ff?style=flat-square)
+
 ![Stack](https://img.shields.io/badge/Java_·_WebSockets_·_Jetty_·_MySQL-333?style=flat-square)
 
 Instant messaging · Group channels · File sharing · Secure auth
@@ -82,7 +88,9 @@ Instant messaging · Group channels · File sharing · Secure auth
 > Digital mental wellness companion
 
 [![Repo](https://img.shields.io/badge/GitHub-chrisszlycoen%2Fmindlink-58a6ff?style=flat-square&logo=github)](https://github.com/chrisszlycoen/mindlink)
+
 ![Status](https://img.shields.io/badge/✅_Active-58a6ff?style=flat-square)
+
 ![Stack](https://img.shields.io/badge/TypeScript_·_React-333?style=flat-square)
 
 Emotion tracking · Mindfulness insights · Resilience building
@@ -121,23 +129,85 @@ Emotion tracking · Mindfulness insights · Resilience building
 
 <div align="center">
 
-<!-- CONTRIBUTION GRAPH -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=chrisszlycoen&theme=github-compact&hide_border=true&bg_color=000000&color=D4AF37&line=D4AF37&point=ffffff&area=true&area_color=D4AF3720" />
+<table>
+<tr>
+<td width="50%" align="center">
 
-<!-- STATS + LANGUAGES -->
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chrisszlycoen&show_icons=true&bg_color=0D1117&theme=dark&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&include_all_commits=true&ring_color=D4AF37" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chrisszlycoen&layout=compact&bg_color=0D1117&theme=dark&hide_border=true&title_color=D4AF37&text_color=ffffff&langs_count=8" />
+### 📈 GitHub Stats
+
+<img
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chrisszlycoen&theme=github_dark"
+  alt="Chrisostom GitHub Stats"
+/>
+
+</td>
+<td width="50%" align="center">
+
+### 💻 Repositories by Language
+
+<img
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chrisszlycoen&theme=github_dark"
+  alt="Repositories Per Language"
+/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 🔥 Most Used for Commits
+
+<img
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chrisszlycoen&theme=github_dark"
+  alt="Most Commit Language"
+/>
+
+</td>
+<td width="50%" align="center">
+
+### ⏱️ Productive Time
+
+<img
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chrisszlycoen&theme=github_dark&utcOffset=2"
+  alt="Productive Time"
+/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- STREAK -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisszlycoen&theme=dark&background=0D1117&hide_border=true&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
+### 🔥 Contribution Streak
 
-<!-- SNAKE ANIMATION -->
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=chrisszlycoen&theme=dark&background=0D1117&hide_border=true&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff"
+  alt="GitHub Contribution Streak"
+/>
+
+<br/>
+<br/>
+
+### 🐍 Contribution Activity
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chrisszlycoen/chrisszlycoen/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chrisszlycoen/chrisszlycoen/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/chrisszlycoen/chrisszlycoen/output/github-contribution-grid-snake-dark.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/chrisszlycoen/chrisszlycoen/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/chrisszlycoen/chrisszlycoen/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/chrisszlycoen/chrisszlycoen/output/github-contribution-grid-snake-dark.svg"
+  />
 </picture>
 
 </div>
@@ -148,12 +218,43 @@ Emotion tracking · Mindfulness insights · Resilience building
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center">
+
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/chrisszlycoen)
+
+</td>
+<td align="center">
+
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:uhiriwechrisostom0@gmail.com)
+
+</td>
+<td align="center">
+
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/chrisszlycoen)
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/u.h.i.r.i.w.e___)
+
+</td>
+<td align="center">
+
 [![Behance](https://img.shields.io/badge/Behance-000?style=for-the-badge&logo=behance&logoColor=1769ff)](https://behance.net/code888)
+
+</td>
+<td align="center">
+
 [![Mastodon](https://img.shields.io/badge/Mastodon-000?style=for-the-badge&logo=mastodon&logoColor=6364FF)](https://mastodon.social/@UhiriweChrisostom)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -165,44 +266,81 @@ Emotion tracking · Mindfulness insights · Resilience building
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=120&section=footer" />
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=120&section=footer"
+/>
 
 </div>
 
 <!--
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🐍 SNAKE ANIMATION SETUP (GitHub Action)
+🐍 SNAKE ANIMATION SETUP
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-To enable the snake animation, create the file:
-  .github/workflows/snake.yml
+Create:
 
-in your chrisszlycoen/chrisszlycoen profile repo with:
+.github/workflows/snake.yml
+
+With:
 
 name: Generate Snake
 
 on:
   schedule:
     - cron: "0 */12 * * *"
+
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
+
   build:
+
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@v3
+
+      - name: Generate contribution snake
+
+        uses: Platane/snk@v3
+
         with:
+
           github_user_name: chrisszlycoen
+
           outputs: |
+
             dist/github-contribution-grid-snake.svg
+
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+
+      - name: Push snake to output branch
+
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+
         with:
+
           target_branch: output
+
           build_dir: dist
+
         env:
+
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-Then run the action manually once via Actions tab.
+
+After creating the workflow:
+
+1. Commit it
+2. Push to GitHub
+3. Go to Actions
+4. Open "Generate Snake"
+5. Click "Run workflow"
+6. Wait for it to finish successfully
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 -->
